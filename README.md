@@ -16,8 +16,6 @@ Study guide is customized for my learning.  Each topic covered is separated for 
 
 N/A
 
-If you followed tutorials, include links to those here as well.
-
 ## License
 
 MIT License
